@@ -32,19 +32,21 @@ https://tichi-app-webapp-stage.web.app
 tichi/
 │
 ├── tichi-qa-automation/
-│   │
-│   ├── login/
-│   │   ├── login_page.py
-│   │   └── test_login.py
-│   │
-│   ├── signup/
-│   │   ├── signup_page.py
-│   │   └── test_signup.py
-│   │
-│   ├── requirements.txt
-│   └── README.md
-│
-└── venv/
+    │
+    ├── login/
+    │   ├── login_page.py
+    │   └── test_login.py
+    │
+    ├── signup/
+    │   ├── signup_page.py
+    │   └── test_signup.py
+    │
+    ├── venv
+    ├── requirements.txt
+    └── README.md
+
+
+
 ```
 
 ---
