@@ -340,6 +340,6 @@ Execution Completed
 
 ## Author
 
-Abishek Durao
+Abishek Durai
 
 QA Intern Technical Assignment
