@@ -1,3 +1,12 @@
+# Document of Testcase
+
+https://docs.google.com/spreadsheets/d/1BPi436bteFdm948Hgw67BOKdnaqH_nV0svNx5nArGZ8/edit?usp=sharing
+
+# Document of Automation Execution Report
+
+https://docs.google.com/document/d/1bzKkTS8Y2nPcNQkZ5RHeJ3C7ycvbicgt-lt8tZqP5iM/edit?usp=sharing
+
+
 # Tichi QA Automation
 
 Automation testing project developed as part of the QA Intern Technical Assignment.
